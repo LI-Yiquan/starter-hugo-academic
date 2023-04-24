@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Students
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yiquan@wisc.edu
+    link: 'yiquan@wisc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm an undergraduate student at University of Wisconsin, Madison, and expecting to graduate in 2025. I transfered to University of Wisconsin, Madison in 2023, before that I spend 2.5 years at The Hong Kong Polytechnic University. My interest lies in 3D scene understanding and adversarial learning.
+I'm an undergraduate student at the University of Wisconsin, Madison, and expecting to graduate in 2025. I transferred to the University of Wisconsin, Madison in 2023, before that I spend 2.5 years at The Hong Kong Polytechnic University. My interest lies in 3D scene understanding and adversarial learning.
 {style="text-align: justify;"}
