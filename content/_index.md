@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
-    id: publications
+    id: featured
     content:
       title: Publications
       text: |-
