@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yiquan Li (李艺泉)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yiquan
+last_name: Li
 
 # Status emoji
 status:
