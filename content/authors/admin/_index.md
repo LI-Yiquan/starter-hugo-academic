@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm an undergraduate student at the University of Wisconsin, Madison, and expecting to graduate in 2025. I transferred to the University of Wisconsin, Madison in 2023, before that I spend 2.5 years at The Hong Kong Polytechnic University. My interest lies in 3D scene understanding and adversarial learning.
+I'm an undergraduate student at the University of Wisconsin, Madison, and expecting to graduate in 2025. I transferred to the University of Wisconsin, Madison in 2023, before that I spent 2.5 years at The Hong Kong Polytechnic University. My interest lies in 3D scene understanding and adversarial learning.
 {style="text-align: justify;"}
